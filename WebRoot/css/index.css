@@ -1,0 +1,5 @@
+span{color:#a40000;}
+input{border:1px solid;}
+input.rightformcss,select.rightformcss,textarea.rightformcss{border:1px solid green;}
+input.failformcss{border:1px solid #FF0000;}
+textarea.failformcss{border:1px solid #FF0000;}
